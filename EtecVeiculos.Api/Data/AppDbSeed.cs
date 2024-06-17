@@ -14,11 +14,11 @@ public class AppDbSeed
                 Name = "Motorcycle"
             },
             new() {
-                Id = 1,
+                Id = 2,
                 Name = "Car"
             },
             new() {
-                Id = 1,
+                Id = 3,
                 Name = "Truck"
             },
         ];
